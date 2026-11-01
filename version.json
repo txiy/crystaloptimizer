@@ -1,7 +1,7 @@
 {
   "app_name": "CRYSTAL PC OPTIMIZER",
-  "latest_version": "7.1.0",
-  "min_required_version": "7.1.0",
+  "latest_version": "7.0.0",
+  "min_required_version": "7.0.0",
   "kill_switch": false,
   "message": "Esta versión ha sido desactivada por el desarrollador por motivos de seguridad y estabilidad. Para continuar optimizando tu PC, descarga la versión oficial más reciente en nuestro Discord o GitHub.",
   "download_url": "https://github.com/txiy/crystaloptimizer/releases",
